@@ -5,7 +5,7 @@ Built with transformer models, aspect-based sentiment analysis, topic modeling a
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This project provides a complete pipeline for **Voice-of-Customer (VoC) analytics**, including:
 - automatic sentiment detection
@@ -20,7 +20,7 @@ The goal is to transform unstructured feedback into **actionable product insight
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
 | Capability | Details |
 |---|---|
